@@ -18,19 +18,19 @@ are the reasons i like **australia**.
     4. Arrive at the destination 
 3. Complete check-out in Sydney,Australia
 
-*Clothing
-    *Jacket
-    *Jeans
-    *Flipflops
-    *Shoes
+* Clothing
+    * Jacket
+    * Jeans
+    * Flipflops
+    * Shoes
 
-*Camera Equipment
-    *Tripod
-    *Camera
-    *Gopro
-    *Extra batteries
+* Camera Equipment
+    * Tripod
+    * Camera
+    * Gopro
+    * Extra batteries
 
-*Cash
+* Cash
 
 
         
