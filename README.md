@@ -33,3 +33,16 @@ are the reasons i like **australia**.
 * Cash
 
 [AboutMe](https://github.com/Vishaldubbaka/assignment2-Dubbaka/blob/main/AboutMe.md)
+
+---
+
+# Table creation
+
+The table below recommends some of the best foods that i had in India with prices and locations.
+
+|  FOOD/DRINK    |    LOCATION   |    PRICE   |
+|     ---        |      ---      |     ---    |
+|Mutton Biryani  |  Shah ghouse  |   $8 .00   |
+|Pathar ka ghosht|   Chichas     |   $12.00   |
+|Malai Lassi     |  Pathabasthi  |   $2 .00   |
+|Tea             |  Nimrah Cafe  |   $1 .00   |
