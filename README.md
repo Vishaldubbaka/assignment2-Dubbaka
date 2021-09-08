@@ -46,3 +46,12 @@ The table below recommends some of the best foods that i had in India with price
 |Pathar ka ghosht|   Chichas     |   $12.00   |
 |Malai Lassi     |  Pathabasthi  |   $2 .00   |
 |Tea             |  Nimrah Cafe  |   $1 .00   |
+
+---
+
+# Quotes by Authors that I like
+
+> "Money is not everything,but make sure you earn a lot before speaking such nonsense." - by
+***Warren Buffett*** <br>
+> "In each of us there is another,whom we do not know." - by
+***Carl Jung*** 
